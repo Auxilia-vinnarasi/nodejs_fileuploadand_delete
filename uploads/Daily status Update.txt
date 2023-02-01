@@ -1,0 +1,76 @@
+Hi sir, Today's Status Update:
+I have learnt how to fetch our API endpoint and get the JSON payload in the project in nextjs and i am having one task in
+Html,css,js,bootstrap.In that project i have to create user dashboard and admin dashboard with edit and delete buttons of
+register users.Without using frameworks i have to complete this using bootstrap,html,css and js.so i am working on that sir.
+
+
+Hi sir,Today's Status Update:
+I have implementing pagination in that html,css task sir.and I am working on nodejs project, in that i am using custom
+handling error response. For that i am using middlewares,so the middleware catch all the errors we passed to the next variable,
+fo that have changed the catch blog with next(err).so instead of repeating the response i am using this.and next i will learn to
+build nestjs project sir.
+
+Regards,
+Auxilia
+
+Claritaz TechLabs LLP
+
+Hi sir,Today's Status Update:
+I have implementing json web token in both registraion page and login page using userschema methods. and i have implementing
+reset password api and forgot password api and i have attended nodejs query session in afternoon.
+
+Hi sir,Today's Status Update:
+I have started working on nodejs concepts and backend connection with database.I have recalled every concepts and how the nodejs
+how the data fetching works in api and all. Authentication and authorization checking and own custom error handlers
+using middlewares i have checked protected routes to check json web token.
+
+
+Hi sir,Today's Status Update:
+I have started working on nodejs concepts and backend connection with database.I have recalled every concepts and how the data
+fetching works in api and all.Authentication and authorization checking and own custom error handlers using middlewares i have
+checked sir. and using protected routes i was checking json web token sir.
+
+Hi sir,Today's Status Update:
+I have implementing forgot password api using send grid smtp nodemailer.In auth middleware i have added authorization bearer
+token as header and got the response.In reset password i have hashed the token and save it in databse using crypto module.
+for reset password expire i have done that for ten mins.While doing that i am not receiving mail sir, so i am checking on it.
+
+Hi sir,Today's Status Update:
+I have implementing forgot password api sir, in that api i can be able to send and receive the password reset mail link.
+i am using send grid email services to send email notifications rerouting to that link.For reset password api ,i recreated
+the token and search for the user that has same token in the database.so, that user i can set the new password.its working fine sir.
+
+Hi sir,Today's Status Update:
+I have reviewing my nodejs authentication project which has forgot password, and reset password link in there with authorization
+bearer token.and i have started working on nodejs project with nestjs framework.how it's used in the modern javascript technologies.
+so i have going through the concepts object oriented programming, functional programming for the project sir.
+
+Hi sir,Today's Status Update:
+I have implementing nodejs project using nestjs with create read update application.In this i have implementing all the student 
+details logic using crud with dto's and decorators.In this project i have followed model view controllers architecture.All the logics
+are in services folder and all request and responses in controllers.And i have used typescript language in this project sir.
+
+Hi sir,Today's Status Update:
+I have created a project with sequelize orm using nodejs,mysql.In this i have implemented the connection part, and the model creation and data
+types part.and i teach freshers some basic concepts of nodejs, server connection and mongoose connection details.and i have to implement
+the sequelize project with products,reviews in that sir.
+In this project i have learnt what is sequelize: it is the technique that maps the software object to database.
+it supports multiple databases. with ORM, switching databases done by ORM itself.
+Mysql db connection: const sequelize=new Sequelize({database,username,password,dialect:"mysql"});
+then we have to test the connection using .authentication();
+ive learnt to create a model using .define();
+then mapping the model to db using.sync();
+using .bulkCreate ive created notes and tags.
+Then get request-.findAll(); post request -.create(); put request - findByPk() and .update()
+delete request:findByPk() and .destroy();
+from that i have learnt how the sequelize code working in nodejs and expressjs.
+
+
+Hi sir,Today's Status Update:
+I have implementing this project using sequelize orm with product controllers and review controllers.Using this i can able to send the data
+in routes and view the data's in database.Meanwhile i am doing this i am getting four times blue screen error in my system sir, i have informed
+it to mani, its happening continuously for past one week.so he told me to download the documents sir.so i am downloading the documents. 
+and working on the project simultaneously sir.
+
+
+
